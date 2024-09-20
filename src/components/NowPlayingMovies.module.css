@@ -1,0 +1,23 @@
+
+
+.mainWrapper{
+    display: grid;
+    width: 95vw;
+    justify-content: space-between;
+}
+
+.container{
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+    margin-left: 5rem;
+}
+
+.img{
+    width: 230px;
+    height: 300px;
+}
+.overview{
+    word-wrap: break-word;
+    color: red;
+
+}
